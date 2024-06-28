@@ -8,6 +8,7 @@ class Main_Program
 {
     static void Main(string[] args)
     {
-        
+        //Palindrome_Check.Palindromes();
+        Array_Reversal.Array_Revers();
     } 
 }
