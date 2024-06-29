@@ -8,7 +8,11 @@ class Main_Program
 {
     static void Main(string[] args)
     {
+        // day 1 28.06
         //Palindrome_Check.Palindromes();
-        Array_Reversal.Array_Revers();
+        //Array_Reversal.Array_Revers();
+        
+        // day 2 29.06
+        Prime_Number_Check.Prime_number();
     } 
 }
