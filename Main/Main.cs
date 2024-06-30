@@ -13,6 +13,9 @@ class Main_Program
         //Array_Reversal.Array_Revers();
         
         // day 2 29.06
-        Prime_Number_Check.Prime_number();
+       //Prime_Number_Check.Prime_number();
+       
+       // day 3 30.06
+       Fibonacci_Sequence.Fibonacci_math();
     } 
 }
