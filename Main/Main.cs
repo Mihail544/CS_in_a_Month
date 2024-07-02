@@ -16,6 +16,7 @@ class Main_Program
        //Prime_Number_Check.Prime_number();
        
        // day 3 30.06
-       Fibonacci_Sequence.Fibonacci_math();
+       //Fibonacci_Sequence.Fibonacci_math();
+       Matrix_Multiplication.The_Matrix();
     } 
 }
