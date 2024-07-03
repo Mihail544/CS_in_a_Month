@@ -24,6 +24,8 @@ class Main_Program
        
        // day 6 /03.07/2004/
        //Counting_Word_Frequency.Word_count();
-       Find_the_longest_string.find_the_longest();
+       //Find_the_longest_string.find_the_longest();
+       Calculating_Factorial.Factorial();
+       
     } 
 }

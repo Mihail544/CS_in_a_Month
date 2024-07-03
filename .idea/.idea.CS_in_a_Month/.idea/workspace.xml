@@ -8,9 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0162d5b-56e5-45eb-8e78-800b8966b281" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Tasks/Sorting_a_List_of_Strings.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Calculating_Factorial.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CS_in_a_Month/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CS_in_a_Month/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/Main.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Main/Main.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +50,7 @@
     &quot;.NET Project.CS_in_a_Month.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -118,6 +118,9 @@
       <workItem from="1719841726778" duration="4193000" />
       <workItem from="1719849186135" duration="2366000" />
       <workItem from="1719910333468" duration="8882000" />
+      <workItem from="1719996695868" duration="9053000" />
+      <workItem from="1720017814463" duration="85000" />
+      <workItem from="1720017908513" duration="7000" />
     </task>
     <servers />
   </component>
