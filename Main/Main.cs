@@ -23,6 +23,7 @@ class Main_Program
        //Sorting_a_List_of_Strings.Sorted_alphabetical();
        
        // day 6 /03.07/2004/
-       Counting_Word_Frequency.Word_count();
+       //Counting_Word_Frequency.Word_count();
+       Find_the_longest_string.find_the_longest();
     } 
 }
