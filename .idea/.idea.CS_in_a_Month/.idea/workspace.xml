@@ -8,7 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0162d5b-56e5-45eb-8e78-800b8966b281" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Tasks/Matrix_Multiplication.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Sorting_a_List_of_Strings.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CS_in_a_Month/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CS_in_a_Month/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main/Main.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Main/Main.cs" afterDir="false" />
     </list>
@@ -117,7 +117,7 @@
       <workItem from="1719822731554" duration="825000" />
       <workItem from="1719841726778" duration="4193000" />
       <workItem from="1719849186135" duration="2366000" />
-      <workItem from="1719910333468" duration="6564000" />
+      <workItem from="1719910333468" duration="8882000" />
     </task>
     <servers />
   </component>

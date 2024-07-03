@@ -8,15 +8,21 @@ class Main_Program
 {
     static void Main(string[] args)
     {
-        // day 1 28.06
+        // day 1 /28.06/2024/
         //Palindrome_Check.Palindromes();
         //Array_Reversal.Array_Revers();
         
-        // day 2 29.06
+        // day 2 /29.06/2024/
        //Prime_Number_Check.Prime_number();
        
-       // day 3 30.06
+       // day 3 /30.06/2024/
        //Fibonacci_Sequence.Fibonacci_math();
-       Matrix_Multiplication.The_Matrix();
+       //Matrix_Multiplication.The_Matrix();  -- 02.07
+       
+       // day 5 /02.07/2024/
+       //Sorting_a_List_of_Strings.Sorted_alphabetical();
+       
+       // day 6 /03.07/2004/
+       Counting_Word_Frequency.Word_count();
     } 
 }
